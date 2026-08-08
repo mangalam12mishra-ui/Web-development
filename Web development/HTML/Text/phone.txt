@@ -1,0 +1,2 @@
+A mobile phone is a portable wireless device used for communication, internet browsing, and running apps. The "About Phone" section in your device settings displays key specifications, including your model number, software version, and IMEI.
+Key Device InformationModel Number: Identifies your exact device make and variant.Software Version: Shows your current operating system (such as Android or iOS) and security patch level.Phone Identity: Lists hardware numbers like the IMEI and serial number.Status: Displays mobile network details, battery level, and signal strength.

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel by Gigi-GO</title>
+</head>
+
+<body>
+    <form>
+        <h2>Travel form</h2>
+
+        <div>
+            <label for="name">Name</label>
+            <input id="name" type="text" placeholder="Enter your name" required>
+        </div>
+        <div>
+            <label for="phone">Phone</label>
+            <input id="phone" type="tel" placeholder="Enter your Phone" required>
+        </div>
+        <div>
+            <label for="email">Email</label>
+            <input id="email" type="email" placeholder="Enter your email" required>
+        </div>
+
+        <div>
+            <label for="gender">Gender</label>
+            <select id="gender" required>
+                <option value="" disabled selected>Select gender</option>
+                <option value="male">male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="address">Address</label>
+            <textarea id="address" placeholder="Enter your address">
+
+            </textarea>
+        </div>
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+        <div>
+            <button type="reset">Reset</button>
+        </div>
+
+    </form>
+    <script src="script.js"></script>
+</body>
+
+</html>
